@@ -41,20 +41,24 @@
 
 ---
 
+---
 
-## 💻 I Code In
+# 💻 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql" />
-</p>
+<div align="center">
 
-<br>
+### Languages & Frameworks
 
-## 🛠️ IDE & Tools I Use
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress" />
-</p>
+<br><br>
 
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&theme=dark" />
+
+</div>
+
+---
 ---
 
