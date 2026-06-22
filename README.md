@@ -104,3 +104,13 @@
 <img src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest"/>
 </p>
 
+---
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-7666&bg_color=000000&color=58A6FF&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true"/>
+
+</p>
+
+
