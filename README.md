@@ -70,3 +70,27 @@
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark" />
+
+</p>
+
+<p align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5" />
+
+</p>
