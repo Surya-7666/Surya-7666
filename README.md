@@ -41,24 +41,32 @@
 
 ---
 
----
-
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=dark" />
 
-<br><br>
+<br>
 
-### Tools & Platforms
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+<br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br>
+
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&theme=dark" />
 
 </div>
 
 ---
----
-
