@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="YOUR_GITHUB_BANNER_LINK" width="100%" />
+<img src="https://github.com/Surya-7666" width="100%" />
 
 </p>
 
