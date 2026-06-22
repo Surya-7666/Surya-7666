@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Surya+Perumal+Jeyapandi;Software+Development+Engineer;MERN+Stack+Developer;Building+Ideas+Into+Scalable+Software;AI+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=900&lines=Hi%2C+I'm+Surya+Perumal+Jeyapandi" alt="Typing SVG" />
 
 </div>
 
@@ -338,17 +338,11 @@ Computer Science & Engineering
 
 # 💼 Open To
 
-<div align="center">
+<p align="center">
 
-| 💻 Role | 🚀 Status |
-|:--------|:---------:|
-| Software Development Engineer | ✅ Open |
-| Frontend Developer | ✅ Open |
-| Full Stack Developer | ✅ Open |
-| MERN Stack Developer | ✅ Open |
+<img src="https://img.shields.io/badge/Open_to_Work-Software_Development_Engineer-success?style=for-the-badge"/>
 
-</div>
-
+</p>
 ---
 
 # 🐍 Contribution Snake
