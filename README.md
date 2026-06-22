@@ -41,3 +41,20 @@
 
 ---
 
+
+## 💻 I Code In
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nextjs,tailwind,vite,nodejs,express,mongodb,mysql" />
+</p>
+
+<br>
+
+## 🛠️ IDE & Tools I Use
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress" />
+</p>
+
+---
+
