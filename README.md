@@ -94,3 +94,13 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5" />
 
 </p>
+
+
+---
+# 💻 LeetCode Stats
+
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest"/>
+</p>
+
