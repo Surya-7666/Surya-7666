@@ -79,9 +79,10 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=AI-Virtual-Assistant&theme=github_dark&hide_border=true"/>
 </a>
 
+
+
 <a href="https://github.com/Surya-7666/ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=ai&theme=github_dark&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=ai&theme=github_dark&hide_border=true&v=2" />
 
 </p>
 
