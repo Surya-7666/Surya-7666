@@ -73,7 +73,9 @@
 
 <h2 align="center">
   
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">
+  
+🚀 Featured Projects</h2>
 
 <div>
 
@@ -104,11 +106,12 @@
 </a>
 
 <!-- Replace with your live demo when available -->
-<a href="#">
+<a href="https://ai-ten-nu-93.vercel.app/">
   <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
+
 # 📊 GitHub Analytics
 
 <p align="center">
