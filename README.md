@@ -1,7 +1,9 @@
 <!-- ============ HERO ============ -->
 <div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:28px;">
 
-
+<div style="flex:0 1 150px; min-width:130px; text-align:center; margin:0 auto;">
+<img src="https://github.com/Surya-7666.png" width="140" style="border-radius:16px;" alt="Surya"/>
+</div>
 
 <div style="flex:1 1 460px; min-width:260px;">
 
@@ -33,35 +35,29 @@ I'm a Software Development Engineer &amp; MERN Stack Developer from India, build
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
+<div style="display:flex; flex-wrap:wrap; gap:24px; justify-content:center;">
 
-<div style="flex:1 1 340px; min-width:280px; max-width:480px; border-left:4px solid #2563EB; border-radius:8px; padding:18px 20px; background:rgba(37,99,235,0.05);">
+<div style="flex:1 1 340px; min-width:280px; max-width:480px;">
 
-<h3>🤖 AI Virtual Assistant</h3>
+### 🤖 AI Virtual Assistant
 
-Customizable AI Virtual Assistant built with the **MERN Stack**, **Gemini AI**, **JWT Authentication**, and **Cloudinary** for media handling.
+Customizable AI Virtual Assistant built with the MERN Stack, Gemini AI, JWT Authentication, and Cloudinary for media handling.
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark"/>
 
-<br/><br/>
-
-<a href="https://github.com/Surya-7666/AI-Virtual-Assistant"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ai-virtual-assistant-vf7v.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a>
+🔗 [Live Demo](https://ai-virtual-assistant-vf7v.onrender.com/) &nbsp;·&nbsp; 📦 [Repository](https://github.com/Surya-7666/AI-Virtual-Assistant)
 
 </div>
 
-<div style="flex:1 1 340px; min-width:280px; max-width:480px; border-left:4px solid #0EA5E9; border-radius:8px; padding:18px 20px; background:rgba(14,165,233,0.05);">
+<div style="flex:1 1 340px; min-width:280px; max-width:480px;">
 
-<h3>🧠 Nexora AI Chatbot</h3>
+### 🧠 Nexora AI Chatbot
 
-Plug-and-play AI chatbot powered by **Gemini AI**, wrapped in a modern, fully responsive interface — drop it into any site in minutes.
+Plug-and-play AI chatbot powered by Gemini AI, wrapped in a modern, fully responsive interface — drop it into any site in minutes.
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,vercel&theme=dark"/>
 
-<br/><br/>
-
-<a href="https://github.com/Surya-7666/ai"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://ai-ten-nu-93.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+🔗 [Live Demo](https://ai-ten-nu-93.vercel.app/) &nbsp;·&nbsp; 📦 [Repository](https://github.com/Surya-7666/ai)
 
 </div>
 
