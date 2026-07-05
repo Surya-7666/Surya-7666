@@ -71,17 +71,37 @@
 
 ---
 
-## 🚀 Featured Repositories
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/Surya-7666/AI-Virtual-Assistant">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Surya-7666&repo=AI-Virtual-Assistant&theme=github_dark&hide_border=true" />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <a href="https://github.com/Surya-7666/ai">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Surya-7666&repo=ai&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+### 🤖 AI Virtual Assistant
+
+> Customizable virtual voice assistant powered by **MERN**, **Gemini AI**, **JWT**, and **Cloudinary**.
+
+🔗 **Repository:**  
+https://github.com/Surya-7666/AI-Virtual-Assistant
+
+🌐 **Live Demo:**  
+https://ai-virtual-assistant-vf7v.onrender.com/
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Nexora AI Chatbot
+
+> Plug-and-play AI customer support chatbot built with **TypeScript** and **Gemini AI**.
+
+🔗 **Repository:**  
+https://github.com/Surya-7666/ai
+
+</td>
+</tr>
+</table>
+
 # 📊 GitHub Analytics
 
 <p align="center">
