@@ -39,41 +39,12 @@
   <img src="https://komarev.com/ghpvc/?username=Surya-7666&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
 </p>
 
----
 
-# 🛠️ Tech Stack
 
-<div align="center">
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=dark" />
-
-<br>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
-
-<br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-<br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&theme=dark" />
-
-</div>
-
----
-
-<h2 align="center">
   
 <h2 align="center">
+
   
 🚀 Featured Projects</h2>
 
@@ -138,6 +109,34 @@
 
 
 ---
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=dark" />
+
+<br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+<br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+<br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&theme=dark" />
+
+</div>
+
 # 💻 LeetCode Stats
 
 
