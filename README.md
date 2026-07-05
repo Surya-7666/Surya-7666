@@ -1,147 +1,110 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0EA5E9&height=180&section=header&text=Surya%20Perumal%20Jeyapandi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header"/>
+<!-- ============ HERO ============ -->
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:28px;">
 
-<a href="https://github.com/Surya-7666">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Development+Engineer;MERN+Stack+Developer;AI+%26+Automation+Enthusiast;Turning+ideas+into+scalable+software.&font=Fira+Code&center=true&width=520&height=45&color=2563EB&vCenter=true&size=22"/>
-</a>
 
-<a href="https://surya-portfolio-swart-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/surya-pj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:surya1237890@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Surya-7666"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Surya-7666&label=Views&style=flat-square&color=2563EB" alt="views"/>
 
+<div style="flex:1 1 460px; min-width:260px;">
+
+### Hello 👋, I'm Surya
+
+I'm a Software Development Engineer &amp; MERN Stack Developer from India, building AI-powered web apps 🚀
+
+**Currently I am working with ...**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts&theme=dark"/>
+
+**I have also worked with ...**
+
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,mysql,nextjs,tailwind,git&theme=dark"/>
+
+**You can find me on ...**
+
+<a href="https://www.linkedin.com/in/surya-pj/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
+<a href="https://github.com/Surya-7666"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
+<a href="mailto:surya1237890@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+<a href="https://surya-portfolio-swart-three.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
+
+</div>
 </div>
 
 <br/>
 
-<div align="center">
+---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-</div>
+<div style="display:flex; flex-wrap:wrap; gap:18px; justify-content:center;">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div style="flex:1 1 340px; min-width:280px; max-width:480px; border-left:4px solid #2563EB; border-radius:8px; padding:18px 20px; background:rgba(37,99,235,0.05);">
 
-### 🤖 AI Virtual Assistant
+<h3>🤖 AI Virtual Assistant</h3>
 
 Customizable AI Virtual Assistant built with the **MERN Stack**, **Gemini AI**, **JWT Authentication**, and **Cloudinary** for media handling.
 
-**Stack:** MongoDB · Express · React · Node · Gemini AI
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+<br/><br/>
 
 <a href="https://github.com/Surya-7666/AI-Virtual-Assistant"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://ai-virtual-assistant-vf7v.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white"/></a>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🧠 Nexora AI Chatbot
+<div style="flex:1 1 340px; min-width:280px; max-width:480px; border-left:4px solid #0EA5E9; border-radius:8px; padding:18px 20px; background:rgba(14,165,233,0.05);">
 
-Plug-and-play AI chatbot powered by **Gemini AI**, wrapped in a modern, fully responsive interface.
+<h3>🧠 Nexora AI Chatbot</h3>
 
-**Stack:** React · Gemini AI · Vercel
+Plug-and-play AI chatbot powered by **Gemini AI**, wrapped in a modern, fully responsive interface — drop it into any site in minutes.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+<br/><br/>
 
 <a href="https://github.com/Surya-7666/ai"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://ai-ten-nu-93.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 👋 About Me
-
-<img src="https://github.com/Surya-7666.png" width="90" style="border-radius:10px;" align="left" hspace="12"/>
-
-I design and build full-stack products end-to-end — from data models to pixel-polished UI. Currently deep in the **MERN stack**, shipping **AI-powered tools**, and exploring how LLMs fit into everyday software.
-
-<br/>
-
-- 🔭 Building AI-integrated web apps with the MERN stack
-- 🧩 React/Next.js · Node/Express · MongoDB & MySQL
-- 🤖 Exploring Gemini AI & LLMs in production
-- 📫 **surya1237890@gmail.com**
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Tech Stack
-
-| Category | Stack |
-|---|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css&theme=dark" height="28"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" height="28"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" height="28"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,wordpress&theme=dark" height="28"/> |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-## 📊 GitHub Analytics
+</div>
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark" alt="Profile details"/>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark" alt="Stats"/>
-</td>
-<td width="50%" valign="top">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark" alt="Repos per language"/>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark" alt="Most commit language"/>
-</td>
-</tr>
-</table>
+<br/>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+<div style="flex:1 1 300px; min-width:260px; max-width:420px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark" alt="Profile details"/></div>
+<div style="flex:1 1 300px; min-width:260px; max-width:420px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark" alt="Stats"/></div>
+</div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
+<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark" alt="Repos per language"/></div>
+<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark" alt="Most commit language"/></div>
+<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5" alt="Productive time"/></div>
+</div>
 
-### 💻 LeetCode Stats
+<br/>
 
-<img width="100%" src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest" alt="LeetCode stats"/>
+---
 
-</td>
-<td width="50%" valign="top">
+<h2 align="center">💻 LeetCode & Contributions</h2>
 
-### ⏱️ Productive Time
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img width="100%" style="max-width:850px;" src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest" alt="LeetCode stats"/>
+</div>
 
 <br/>
 
 <div align="center">
-
-## 📈 Contribution Graph
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-7666&bg_color=000000&color=58A6FF&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true" alt="Contribution graph"/>
-
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=100&section=footer" width="100%" alt="footer"/>
 
 **⭐ Thanks for stopping by — let's build something great together.**
 
