@@ -82,7 +82,7 @@
 
 
 <a href="https://github.com/Surya-7666/ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=ai&theme=github_dark&hide_border=true&v=2" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=ai&theme=github_dark&hide_border=true" />
 
 </p>
 
