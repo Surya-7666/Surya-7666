@@ -1,11 +1,3 @@
-<!-- ============ HERO ============ -->
-<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:28px;">
-
-<div style="flex:0 1 150px; min-width:130px; text-align:center; margin:0 auto;">
-<img src="https://github.com/Surya-7666.png" width="140" style="border-radius:16px;" alt="Surya"/>
-</div>
-
-<div style="flex:1 1 460px; min-width:260px;">
 
 ### Hello 👋, I'm Surya
 
@@ -69,21 +61,19 @@ Plug-and-play AI chatbot powered by Gemini AI, wrapped in a modern, fully respon
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
-<div style="flex:1 1 300px; min-width:260px; max-width:420px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark" alt="Profile details"/></div>
-<div style="flex:1 1 300px; min-width:260px; max-width:420px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark" alt="Stats"/></div>
-</div>
+<p align="center">
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark"/>
+</p>
 
-<br/>
+<p align="center">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark"/>
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark"/>
+</p>
 
-<div style="display:flex; flex-wrap:wrap; gap:14px; justify-content:center;">
-<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark" alt="Repos per language"/></div>
-<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark" alt="Most commit language"/></div>
-<div style="flex:1 1 260px; min-width:220px; max-width:340px;"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5" alt="Productive time"/></div>
-</div>
-
-<br/>
-
+<p align="center">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark"/>
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5"/>
+</p>
 ---
 
 <h2 align="center">💻 LeetCode & Contributions</h2>
