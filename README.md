@@ -71,37 +71,44 @@
 
 ---
 
+<h2 align="center">
+  
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div>
 
 ### 🤖 AI Virtual Assistant
 
-> Customizable virtual voice assistant powered by **MERN**, **Gemini AI**, **JWT**, and **Cloudinary**.
+> Customizable AI Virtual Assistant built with **MERN Stack**, **Gemini AI**, **JWT Authentication**, and **Cloudinary**.
 
-🔗 **Repository:**  
-https://github.com/Surya-7666/AI-Virtual-Assistant
+<a href="https://github.com/Surya-7666/AI-Virtual-Assistant">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-🌐 **Live Demo:**  
-https://ai-virtual-assistant-vf7v.onrender.com/
+<a href="https://ai-virtual-assistant-vf7v.onrender.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+</a>
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<br>
+
+<div>
 
 ### 🧠 Nexora AI Chatbot
 
-> Plug-and-play AI customer support chatbot built with **TypeScript** and **Gemini AI**.
+> Plug-and-play AI chatbot powered by **Gemini AI** with a modern, responsive interface.
 
-🔗 **Repository:**  
-https://github.com/Surya-7666/ai
+<a href="https://github.com/Surya-7666/ai">
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-</td>
-</tr>
-</table>
+<!-- Replace with your live demo when available -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
+</div>
 # 📊 GitHub Analytics
 
 <p align="center">
