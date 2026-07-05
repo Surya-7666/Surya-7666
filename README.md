@@ -75,9 +75,9 @@
 
 <p align="center">
 
-<a href="https://github.com/Surya-7666/AI-Virtual-Assistant">
+<!-- <a href="https://github.com/Surya-7666/AI-Virtual-Assistant">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-7666&repo=AI-Virtual-Assistant&theme=github_dark&hide_border=true"/>
-</a>
+</a> -->
 
 
 
