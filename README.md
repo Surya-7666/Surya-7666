@@ -16,7 +16,7 @@ I'm a Software Development Engineer &amp; MERN Stack Developer from India, build
 <a href="https://www.linkedin.com/in/surya-pj/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
 <a href="https://github.com/Surya-7666"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="mailto:surya1237890@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
-<a href="https://surya-portfolio-swart-three.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
+<a href="https://www.suryasde.site/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
 
 </div>
 </div>
@@ -57,24 +57,14 @@ Plug-and-play AI chatbot powered by Gemini AI, wrapped in a modern, fully respon
 
 <br/>
 
----
 
-<h2 align="center">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-7666&theme=github_dark"/>
-</p>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya-7666&theme=github_dark"/>
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya-7666&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-7666&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Surya-7666&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya-7666&theme=github_dark"/>
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya-7666&theme=github_dark&utcOffset=5.5"/>
-</p>
----
 
 <h2 align="center">💻 LeetCode & Contributions</h2>
 
