@@ -1,4 +1,3 @@
-
 ### Hello 👋, I'm Surya
 
 I'm a Software Development Engineer &amp; MERN Stack Developer from India, building AI-powered web apps 🚀
@@ -17,9 +16,6 @@ I'm a Software Development Engineer &amp; MERN Stack Developer from India, build
 <a href="https://github.com/Surya-7666"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
 <a href="mailto:surya1237890@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
 <a href="https://www.suryasde.site/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
-
-</div>
-</div>
 
 <br/>
 
@@ -57,25 +53,23 @@ Plug-and-play AI chatbot powered by Gemini AI, wrapped in a modern, fully respon
 
 <br/>
 
-
-
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Surya-7666&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Surya-7666&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Surya-7666&show_icons=true&theme=tokyonight&hide_border=true" alt="Surya's GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-7666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <h2 align="center">💻 LeetCode & Contributions</h2>
 
 <div align="center">
-<img width="100%" style="max-width:850px;" src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest" alt="LeetCode stats"/>
+  <img width="100%" style="max-width:850px;" src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest" alt="LeetCode stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-7666&bg_color=000000&color=58A6FF&line=3FB950&point=FFFFFF&area=true&area_color=3FB950&hide_border=true" alt="Contribution graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-7666&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
 <br/>
