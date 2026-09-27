@@ -4,7 +4,7 @@ I'm a Software Development Engineer &amp; MERN Stack Developer from India, build
 
 **Currently I am working with ...**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,electron,ts&theme=dark"/>
 
 **I have also worked with ...**
 
