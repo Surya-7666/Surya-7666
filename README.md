@@ -56,20 +56,20 @@ Plug-and-play AI chatbot powered by Gemini AI, wrapped in a modern, fully respon
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Surya-7666&show_icons=true&theme=tokyonight&hide_border=true" alt="Surya's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-7666&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Surya-7666&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Surya's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Surya-7666&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <h2 align="center">💻 LeetCode & Contributions</h2>
 
 <div align="center">
-  <img width="100%" style="max-width:850px;" src="https://leetcard.jacoblin.cool/Surya_7666?theme=unicorn&font=Poppins&ext=contest" alt="LeetCode stats"/>
+  <img width="460" src="https://leetcard.jacoblin.cool/Surya_7666?theme=dark&font=Poppins" alt="LeetCode stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-7666&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img width="100%" style="max-width:850px;" src="https://ghchart.rshah.org/58A6FF/Surya-7666" alt="Surya's GitHub Contribution Calendar" />
 </div>
 
 <br/>
